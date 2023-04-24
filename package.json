@@ -1,4 +1,24 @@
 {
+  "name": "unnamed",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": ["math", "mathmatics"],
+  "authors": [
+    {
+      "name": "Hyeongwang Jang",
+      "email": "wkdgusrhkd@gmail.com",
+      "url": "https://github.com/hg-jang"
+    }, {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "scripts": {
+    "prettier": "",
+    "lint": "",
+    "test": ""
+  },
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.4",
@@ -6,5 +26,13 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MechanicJs/MechanicJs"
+  },
+  "bugs": {
+    "url": "https://github.com/MechanicJs/MechanicJs/issues"
+  },
+  "license": ""
 }
