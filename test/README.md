@@ -1,1 +1,3 @@
 # Test code
+
+npm test
